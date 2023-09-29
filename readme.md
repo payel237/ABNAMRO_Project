@@ -11,7 +11,7 @@ This Folder contains code and instructions for deploying a mortgage default pred
 ppanja@LT461206 MINGW64 ~/POC/mortgage_defaulter
 $ sh src/utils/setup_env.sh
 ```
-#####Step 4: Navigate to the source code folder & execute the pipeline to run data preprocessing, model training , registering & inferecing. 
+#####Step 4: Navigate to the source code folder & execute the pipeline to run data preprocessing, model training , registering & inferecing 
 
 
 ```shell
